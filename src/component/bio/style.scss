@@ -1,0 +1,10 @@
+$color: rgb(252, 252, 252);
+.myDiv {
+  color: $color;
+  font-weight: bolder;
+  height: 600px;
+  padding-top: 300px;
+  background-image: url("../../assets/cover.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
